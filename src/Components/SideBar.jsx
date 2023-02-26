@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './Styling.css'
-import { Outlet, Link } from "react-router-dom";
+
 export class SideBar extends Component {
   render() {
     return (
@@ -8,7 +8,7 @@ export class SideBar extends Component {
             <div className="content clearfix">
 
             <div className="main_content">
-                <h1 className="recent_post_title">Articles you may like to read :)</h1>
+                <h1 className="recent_post_title">Articles you may like to read </h1>
                 {/* <!--POST--> */}
                 <div className="post">
                     <img src='https://etimg.etb2bimg.com/photo/98235462.cms' alt="" className="post_image"/>

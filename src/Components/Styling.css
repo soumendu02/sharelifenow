@@ -38,7 +38,7 @@ h1,h4{
     border:1px solid grey;
 }
 header{
-    background-color: blanchedalmond;
+    background-color: rgb(255, 235, 205);
     height: 49px;
 }
 
@@ -114,7 +114,7 @@ header *{
 }
 
 span.begin{
-    color: rgba(255, 3, 3, 0.971);
+    color: rgba(238, 7, 7, 0.8);
     font-weight: bolder;
 }
 span.later{

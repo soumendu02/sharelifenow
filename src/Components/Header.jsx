@@ -17,10 +17,7 @@ export class Header extends Component {
             <li><a href="#">About</a></li>
 
             <li>
-                <a href="#">
-                    <i className="fa fa-user"></i>User
-                    <i className="fa fa-chevron-down"></i>
-                </a>
+                
                 <ul>
                     <li><a href="#" className="dashboard">Dashboard</a></li>
                     <li><a href="#" className="logout">Logout</a></li>
